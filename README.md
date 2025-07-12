@@ -1,3 +1,2 @@
 # a33r
-Google
-[google.com](google.com)
+Visit [Google](https://www.google.com) for more information.
